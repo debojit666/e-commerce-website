@@ -35,8 +35,7 @@ h2 {
     background-color: #FF9C35;
 
 }
-.smartphone,
-.smartphone h3 {
+.smartphone, .smartphone h3 {
     margin-bottom: 50px;
     margin-top: 50px;
 }
@@ -59,4 +58,56 @@ h2 {
     width: 60%;
     padding-top: 30px;
 
+}
+.laptops-catagories, .laptops-catagories h3 {
+    margin-bottom: 50px;
+
+}
+.laptops-catagories a {
+    color: #FF9C35;
+    margin-bottom: 50px;
+
+}
+.laptops-section {
+    text-align: center;
+}
+.container-catagories {
+    padding-bottom: 100px;
+}
+
+#catagories-bg {
+    position: relative;
+    margin: 0 auto;
+    display: inline-block;
+    margin-bottom: 70px;
+}
+.categories-border::after {
+    position: absolute;
+    content: " ";
+    height: 7px;
+    width: 70px;
+    background: transparent linear-gradient(142deg, #FF9C35 0%, #FFD019 100%) 0 0 no-repeat padding-box;
+    border-radius: 10px;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.pale-order img {
+    width: 100%;
+}
+.merge-images0 img {
+    padding: 40px;
+    background-color: white;
+    margin: 10px;
+    border-radius: 5px 5px 5px 30px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.merge-images1, .merge-images2 {
+    padding: 40px;
+    background-color: white;
+    margin: 10px;
+    border-radius: 5px 5px 30px 5px;
+    box-shadow: 5px 5px 10px lightgray;
 }
