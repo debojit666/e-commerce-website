@@ -1,0 +1,62 @@
+.nav-item {
+    padding-left: 15px;
+}
+.nav-item a {
+    font-weight: bold;
+}
+.navbar {
+    padding-top: 50px;
+}
+.navbar-brand img {
+    width: 150px;
+}
+
+.btn-buy-now {
+    border: none;
+    color: white;
+    background-color: black;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+h2 {
+    font-size: 20px;
+}
+.carousel-indicators li {
+    background-color: gainsboro;
+    width: 7px;
+    height: 5px;
+    border-radius: 50%;
+
+}
+.carousel-indicators li.active {
+    width: 20px;
+    height: 5px;
+    border-radius: 50%;
+    background-color: #FF9C35;
+
+}
+.smartphone,
+.smartphone h3 {
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.smartphone a {
+    margin-bottom: 50px;
+    margin-top: 50px;
+    color: #FF9C35;
+}
+.smart-phone-section {
+    text-align: center;
+
+}
+.card {
+    border: none;
+    padding-bottom: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card img {
+    width: 60%;
+    padding-top: 30px;
+
+}
