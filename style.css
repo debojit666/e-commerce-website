@@ -111,3 +111,25 @@ h2 {
     border-radius: 5px 5px 30px 5px;
     box-shadow: 5px 5px 10px lightgray;
 }
+/* Subscribe */
+
+#subscribe {
+    padding: 100px;
+    text-align: center !important;
+
+}
+#subscribe h6 {
+    color: gray;
+
+}
+
+.subscribe-btn {
+    margin-top: 20px;
+    
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding-bottom: 10px;
+}
